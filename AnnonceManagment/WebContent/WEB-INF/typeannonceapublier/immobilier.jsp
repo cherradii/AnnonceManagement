@@ -47,7 +47,7 @@
         		<H4>
         			**			
 					<a href="webannonces?page=/WEB-INF/typeannonceapublier/immobilier.jsp" title="">Immobilier</a>
-					**
+					<!--  **
 					<a href="webannonces?page=/WEB-INF/typeannonceapublier/vehicule.jsp" title="">Véhicule</a>
 					**
 					<a href="webannonces?page=/WEB-INF/typeannonceapublier/service.jsp" title="">Service</a>
@@ -55,7 +55,7 @@
 					<a href="webannonces?page=/WEB-INF/typeannonceapublier/emploi.jsp" title="">Emploi</a>
 					**
 					<a href="webannonces?page=/WEB-INF/typeannonceapublier/autres.jsp" title="">Autres</a>
-					**			
+					**-->	
 				</H4>
 				<form action ="webannonces?page=/WEB-INF/typeannonceapublier/immobilier.jsp&action1=AjouteImmobilier" method="post">
 				<%

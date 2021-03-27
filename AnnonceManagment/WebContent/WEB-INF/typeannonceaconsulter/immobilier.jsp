@@ -61,7 +61,7 @@
         		<H4>
         			**			
 					<a href="webannonces?page=/WEB-INF/typeannonceaconsulter/immobilier.jsp&num=0&nbr=4" title="">Immobilier</a>
-					**
+					<!--**
 					<a href="webannonces?page=/WEB-INF/typeannonceaconsulter/vehicule.jsp" title="">Véhicule</a>
 					**
 					<a href="webannonces?page=/WEB-INF/typeannonceaconsulter/service.jsp" title="">Service</a>
@@ -69,7 +69,7 @@
 					<a href="webannonces?page=/WEB-INF/typeannonceaconsulter/emploi.jsp" title="">Emploi</a>
 					**
 					<a href="webannonces?page=/WEB-INF/typeannonceaconsulter/autres.jsp" title="">Autres</a>
-					**			
+					** -->		
 				</H4>
 				<center>
 				<table  width="100%" >
